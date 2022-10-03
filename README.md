@@ -1,6 +1,6 @@
 # Introduction to Digital Forensics - Assignment 1
 ### Data used 💽
-The group collected 100 listings in total from the Vicy Market on the dark web.
+The group collected 100 listings in total from the Vice Market on the dark web.
 
 The focus was to collect data in a objective manner. This was done by choosing random listings listed on the site that were recommended. The listings recommended were most often from sellers with many reviews and sales. These sellers are the good and reliable sellers on the site.
 
@@ -12,3 +12,16 @@ The data is checked for duplicates before generating the graphs. Data collected 
 - Top 10 highest priced listings on Vice City Market
 - Ratio of legal/illegal/depends listings
 - Top 3 categories with the most listings
+
+### Other assignment questions answered in this Jupyter Notebook
+- Most suprising products/posts
+- Vendors investigated
+- Three vendors the police should investigate
+
+### Made by group 1:
+- Mark Boom
+- Tom Essers
+- Simge Bilen
+- Baran Gulbey
+- Jelmer Hofman
+- Stijn Schuurman
