@@ -19,9 +19,9 @@ The data is checked for duplicates before generating the graphs. Data collected 
 - Three vendors the police should investigate
 
 ### Made by group 1:
-- Mark Boom
-- Tom Essers
-- Simge Bilen
-- Baran Gulbey
-- Jelmer Hofman
-- Stijn Schuurman
+- Mark Boom         s2552469
+- Tom Essers        s2484765 
+- Simge Bilen       s2532239
+- Baran Gulbey      s2616394
+- Jelmer Hofman     s2460653
+- Stijn Schuurman   s2620162
